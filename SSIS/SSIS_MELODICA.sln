@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS_MELODICA", "SSIS_MELODICA\SSIS_MELODICA.dtproj", "{0565B742-7CB7-4DDC-900A-EE79E79C933B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0565B742-7CB7-4DDC-900A-EE79E79C933B}.Development|Default.ActiveCfg = Development
+		{0565B742-7CB7-4DDC-900A-EE79E79C933B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29D9FC61-CC64-4AF8-AE8F-13973C383BC2}
+	EndGlobalSection
+EndGlobal
